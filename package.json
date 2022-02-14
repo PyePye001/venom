@@ -87,7 +87,7 @@
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0",
     "release-it": "^14.2.2",
-    "shx": "^0.3.3",
+    "shx": "^0.3.4",
     "ts-loader": "^8.0.14",
     "typedoc": "^0.20.16",
     "typedoc-plugin-pages": "^1.1.0",
